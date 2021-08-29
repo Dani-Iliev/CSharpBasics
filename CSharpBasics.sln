@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBasics", "CSharpBasics\CSharpBasics.csproj", "{3D43E1B8-ABD5-4450-8EC8-BC164F91CC75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpBasics", "CSharpBasics\CSharpBasics.csproj", "{3D43E1B8-ABD5-4450-8EC8-BC164F91CC75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{F86ADF01-FE44-471A-9AFC-3359036BD0EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers", "Numbers\Numbers.csproj", "{F86ADF01-FE44-471A-9AFC-3359036BD0EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareArea", "SquereArea\SquareArea.csproj", "{53CD3ACA-EA97-4578-9211-D6D090BD7382}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareArea", "SquereArea\SquareArea.csproj", "{53CD3ACA-EA97-4578-9211-D6D090BD7382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{51A76516-260F-4F51-B2E4-A8C69B811981}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{53CD3ACA-EA97-4578-9211-D6D090BD7382}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53CD3ACA-EA97-4578-9211-D6D090BD7382}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53CD3ACA-EA97-4578-9211-D6D090BD7382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A76516-260F-4F51-B2E4-A8C69B811981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A76516-260F-4F51-B2E4-A8C69B811981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A76516-260F-4F51-B2E4-A8C69B811981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A76516-260F-4F51-B2E4-A8C69B811981}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
